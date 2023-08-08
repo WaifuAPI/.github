@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/79479798?s=200&v=4" alt="WaifuAPI Logo" width="200">
   <br>
-  WaifuAPI
+   WaifuAPI
 </h1>
 
 <!-- Badges -->
@@ -13,7 +13,7 @@
 
 <!-- Short Description -->
 <p align="center">
-  Your go-to source for anime data and insights. Empowering developers and anime enthusiasts to create amazing experiences.
+ 🚀 Your go-to source for anime data and insights. Empowering developers and anime enthusiasts to create amazing experiences 🌟
 </p>
 
 <!-- Features -->
@@ -28,19 +28,19 @@
 <!-- Getting Started -->
 <h2 align="center">Getting Started</h2>
 <p align="center">
-  Visit our website at <a href="https://waifu.it" target="_blank">waifu.it</a> to learn how to integrate the WaifuAPI into your projects and start creating unique anime experiences today!
+ 🛠️ Visit our website at <a href="https://waifu.it" target="_blank">waifu.it</a> to learn how to integrate the WaifuAPI into your projects and start creating unique anime experiences today!
 </p>
 
 <!-- Community and Support -->
 <h2 align="center">Community and Support</h2>
 <p align="center">
-  Join our vibrant <a href="https://discord.gg/yyW389c" target="_blank">Discord community</a> for discussions, assistance, and updates. We're here to help you bring anime magic to life!
+ 💬 Join our vibrant <a href="https://discord.gg/yyW389c" target="_blank">Discord community</a> for discussions, assistance, and updates. We're here to help you bring anime magic to life!
 </p>
 
 <!-- License -->
 <h2 align="center">License</h2>
 <p align="center">
-  This project is open-source and available under the <a href="LICENSE" target="_blank">AGPL-3.0 License</a>.
+ 📜 This project is open-source and available under the <a href="LICENSE" target="_blank">AGPL-3.0 License</a>.
 </p>
 
 <!-- Footer -->
